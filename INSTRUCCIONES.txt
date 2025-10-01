@@ -1,0 +1,21 @@
+#1 - CREAR ENTORNO VIRTUAL
+Abrir terminal, copiar y pegar este comando + enter para ejecutar:
+# En macOS y Linux
+python3 -m venv venv
+
+# En Windows
+python -m venv venv
+
+____________________________________________________________________________________________
+#2 - ACTIVAR ENTORNO
+Abrir terminal, copiar y pegar este comando + enter para ejecutar:
+En windows:
+venv\Scripts\activate
+
+En mac y linux:
+source venv/bin/activate
+
+____________________________________________________________________________________________
+#3 - INSTALAR DEPENDENCIAS
+Abrir terminal, copiar y pegar este comando + enter para ejecutar:
+pip install -r requirements.txt

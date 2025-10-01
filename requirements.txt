@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Para la manipulación y análisis de datos (DataFrames)
+pandas
+
+# Para realizar peticiones HTTP
+requests
+
+# Para el parsing de HTML y XML
+beautifulsoup4
+
+# Un parser eficiente para BeautifulSoup (recomendado)
+lxml
